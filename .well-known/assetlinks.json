@@ -1,6 +1,6 @@
 [{
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target" : { "namespace": "android_app", "package_name": "io.github.massar_saida.twa",
-                     "sha256_cert_fingerprints": ["61:D2:A1:EF:D9:96:33:FF:CB:AB:FC:9B:AD:DB:F4:69:F8:F4:A2:B7:CD:BA:ED:B0:A5:40:C6:AC:64:F4:43:2A"] }
+                     "sha256_cert_fingerprints": ["F3:35:75:46:94:B6:B2:F0:82:8C:6B:2E:69:F8:B1:A8:37:1F:6E:AF:4E:35:B2:A3:20:37:6F:25:CD:8F:89:85"] }
       }
 ]
