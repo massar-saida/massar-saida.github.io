@@ -1,11 +1,6 @@
----
-layout: none
-permalink: .well-known/assetlinks.json
----
-
 [{
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target" : { "namespace": "android_app", "package_name": "io.github.massar_saida.twa",
-                     "sha256_cert_fingerprints": ["F3:35:75:46:94:B6:B2:F0:82:8C:6B:2E:69:F8:B1:A8:37:1F:6E:AF:4E:35:B2:A3:20:37:6F:25:CD:8F:89:85"] }
+                     "sha256_cert_fingerprints": ["E5:EB:12:08:4F:17:FB:39:4A:7A:B4:FA:B6:A3:4B:A8:4E:88:36:98:CD:76:C8:03:57:8A:1F:6B:EA:87:F4:66"] }
       }
 ]
