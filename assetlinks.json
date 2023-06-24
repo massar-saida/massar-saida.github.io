@@ -3,11 +3,14 @@ layout: none
 permalink: .well-known/assetlinks.json
 ---
 
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.mazar_app.twa",
-        "sha256_cert_fingerprints": ["D1:05:3B:0C:37:EB:56:E6:2B:5B:E4:86:7D:19:C7:BD:1F:DA:29:6D:35:CB:7A:E9:57:46:C6:DE:D8:1D:DB:AE"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mazar_app.twa",
+      "sha256_cert_fingerprints":
+        ["0A:2A:34:CC:3D:DB:99:AD:FB:18:22:A1:9A:BF:D9:3A:8A:9F:28:47:49:02:11:97:50:17:31:93:A0:D5:F5:6C"]
+    }
+  }
+]
